@@ -1,6 +1,7 @@
 <h1 align="center">
 Night City Net Runner Society
 </h1>
+<h3 align="center">In Pre-Alpha stages. Aiming to launch in January 2024</h3>
 <p align="center"> <a href="https://ncnrs.github.io">Website</a> | <a href="https://ncnrs.github.io/guide">Guide</a> | <a href="https://github.com/orgs/NCNRS/discussions">Discussions</a> | <a href="https://discord.gg/pksJXBfH">Discord</a></p>
 
 [Night City](https://github.com/NCNRS/NightCity) is an automated setup of Red Team infrastructure that can be managed from a full featured GUI. A [Night City](https://github.com/NCNRS/NightCity) deployment is made up of various services outlined below. These services can easily be scaled up or down and quickly deployed in a distributed manner across many different servers. 
